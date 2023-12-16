@@ -1,0 +1,8 @@
+
+
+https://edge24-ams.live.mmcdn.com/live-hls/amlst:dereckandjake-sd-ce3e70dfb2d3ce54a23775c6e2421e840d6f20218ae1d1fd44f3a27a98e5767e_trns_h264/chunklist_w1508650393_b3096000_t64RlBTOjMwLjA=.m3u8
+
+https://cdn77-vid.xvideos-cdn.com/KGOeR7usrQSkF0-IlSPWNg==,1702744866/videos/hls/97/c7/af/97c7afc393d0984dc5179a374cd3d578/hls-1080p-4a8b0.m3u8
+
+https://vid-egc.xvideos-cdn.com/B3eNf9O4-qHb9DBotUh9fQ==,1702747688/videos/hls/5a/3a/03/5a3a03d86612c61ac2f507cb1a5154a6/hls-360p.m3u8
+
